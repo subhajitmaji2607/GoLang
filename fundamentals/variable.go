@@ -1,4 +1,9 @@
 /*
+	Exported names
+	In Go, a name is exported if it begins with a capital letter.
+*/
+
+/*
 	The var statement declares a list of variables;
 	A var statement can be at package or function level
 
