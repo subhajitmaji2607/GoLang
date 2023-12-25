@@ -41,7 +41,7 @@ func main() {
 		},
 	}
 	/* if properties name are omit while assigning a variable then oder of passing
-	property value and then order which properties are written in struct have to be equal.
+	property value and the order which properties are written in struct have to be equal.
 
 	Alex := person{"Alex","Anderson"}  --> {firstName: Alex, lastName: Anderson}
 	Alex := person{"Anderson","Alex"}  --> {firstName: Anderson, lastName: Alex}
